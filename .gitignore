@@ -44,3 +44,7 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+data/raw/*.parquet
+data/raw/*.csv
+data/processed/
+data/curated/
